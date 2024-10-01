@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi! Sou um desenvolvedor fullstack apaixonado por resolver problemas e transformar café em código. 🚀 Tenho experiência com PHP, Laravel, MySQL, PostgreSQL, JavaScript, Node.js, Vue.js, React, além de brincar com Docker, Kubernetes e ambientes de nuvem com Azure e AWS. Ah, e ultimamente estou me aventurando no mundo do .NET! 🌍<br><br>Sempre em busca de novos desafios e aprendizados, estou de olho nas tecnologias mais modernas e nas melhores práticas para construir soluções robustas. Vamos codar juntos? 🤓
+Hi! I'm a fullstack developer passionate about solving problems and turning coffee into code. 🚀 I have experience with PHP, Laravel, MySQL, PostgreSQL, JavaScript, Node.js, Vue.js, React, and I enjoy working with Docker, Kubernetes, and cloud environments like Azure and AWS. Oh, and lately I've been exploring the .NET world! 🌍<br><br>Always seeking new challenges and learning opportunities, I keep an eye on the latest technologies and best practices to build robust solutions. Let's code together? 🤓
 
 
 ## 🌐 Socials:
