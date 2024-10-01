@@ -13,15 +13,16 @@ Hi! I'm a fullstack developer passionate about solving problems and turning coff
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=fabriciohd&limit=3&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
+### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fabriciohd&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Experience,Commits,Repositories,Followers"/>
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fabriciohd&limit=3&theme=dark&combine_all_yearly_contributions=true"/>
-</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
