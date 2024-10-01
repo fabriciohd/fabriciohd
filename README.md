@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Memória atualizada<br>Aqui está o resumo atualizado para a sua página no GitHub:<br><br>👨‍💻 Sobre mim<br>Oi! Sou um desenvolvedor fullstack apaixonado por resolver problemas e transformar café em código. 🚀 Tenho experiência com PHP, Laravel, MySQL, PostgreSQL, JavaScript, Node.js, Vue.js, React, além de brincar com Docker, Kubernetes e ambientes de nuvem com Azure e AWS. Ah, e ultimamente estou me aventurando no mundo do .NET! 🌍<br><br>Sempre em busca de novos desafios e aprendizados, estou de olho nas tecnologias mais modernas e nas melhores práticas para construir soluções robustas. Vamos codar juntos? 🤓
+Oi! Sou um desenvolvedor fullstack apaixonado por resolver problemas e transformar café em código. 🚀 Tenho experiência com PHP, Laravel, MySQL, PostgreSQL, JavaScript, Node.js, Vue.js, React, além de brincar com Docker, Kubernetes e ambientes de nuvem com Azure e AWS. Ah, e ultimamente estou me aventurando no mundo do .NET! 🌍<br><br>Sempre em busca de novos desafios e aprendizados, estou de olho nas tecnologias mais modernas e nas melhores práticas para construir soluções robustas. Vamos codar juntos? 🤓
 
 
 ## 🌐 Socials:
